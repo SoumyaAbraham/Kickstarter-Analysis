@@ -2,9 +2,9 @@
 Performing analysis on Kickstarter data to uncover trends
 ---
 This is a look at the overall Categories!
-[Parent Category Outcomes](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes.png)
+![Parent Category Outcomes](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes.png)
 Now if we were to filter out just the US, 
-[Parent Category Outcomes_US_Theater](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes_Theater.png)
+![Parent Category Outcomes_US_Theater](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes_Theater.png)
 As you can see, we now notice a very *high* success rate in the Theater field.
 
 When we look into the outcomes based on the Fundraising Launch dates, we notice that the launch is most successful in _May_. 
