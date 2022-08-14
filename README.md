@@ -55,7 +55,6 @@ As per our findings, a goal within $5000 has a higher chance of succeeding than 
 Certain categories lack useful data. While Louise's areas of interest, _theater_ has enough information to help make sound conclusions, clients interested in categories like journalism will not find this dataset useful. 
 
 ![Data available by Category](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Data%20Available%20by%20Category.png)
-
 This is where graphs portraying categories and subcategories can come in handy in making sure the dataset contains what the client is after. 
 
 - What are some other possible tables and/or graphs that we could create?
