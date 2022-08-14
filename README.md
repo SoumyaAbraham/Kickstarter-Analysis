@@ -10,7 +10,7 @@ The purpose of this analysis is to search for patterns in campaign kickstart dat
 
 ## Analysis and Challenges
 With detailed information on over 4100 Kickstarter led campaigns, there are several routes we can go with analyzing the data. 
-Whether it be focusing on [USA](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Parent%20Category%20Outcomes_USA.png) by [category of product/service](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Parent%20Category%20Outcomes.png) or what time of the [year](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Outcomes%20Based%20on%20Launch%20Date.png) was most receptive, we can make some educated inferences on how Louise's future campaigns may go, what can be improved and what works in her favor.
+Whether it be focusing on [USA](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Parent%20Category%20Outcomes_USA.png) by [category of product/service](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Parent%20Category%20Outcomes.png) or what [time of the year](https://github.com/SoumyaAbraham/Kickstarter-Analysis/blob/main/Graphs%20and%20Charts/Outcomes%20Based%20on%20Launch%20Date.png) was most receptive, we can make some educated inferences on how Louise's future campaigns may go, what can be improved and what works in her favor.
  
 With a myriad of information, it can be *challenging* to pinpoint what to stick to and what to avoid. 
 
